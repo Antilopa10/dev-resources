@@ -95,4 +95,11 @@ export const resources: Resource[] = [
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
     },
+    {
+        name: 'VStat',
+        categories: ['SEO'],
+        description:
+            'VStat - AI-Powered Marketing Analysis, any site or domain visitor statistics',
+        url: 'https://vstat.info/',
+    },
 ]
